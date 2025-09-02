@@ -11,6 +11,7 @@ export default function Home() {
       <Link href="/posts">Posts</Link>
       <Link href={`/exemplo?params=${valorParamCriptografado}`}>Pagina com parametro</Link>
       <Link href="/produtos/categorias/roupas">Ir para produtos</Link>
+      <Link href="/dashboard">DashBoard</Link>
     </div>
   );
 }
