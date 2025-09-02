@@ -14,6 +14,7 @@ export default function Home() {
       <Link href="/produtos/categorias/roupas">Ir para produtos</Link>
       <Link href="/dashboard">DashBoard</Link>
       <BotaoRedirect />
+      <Link href="/profile">Profile</Link>
     </div>
   );
 }
